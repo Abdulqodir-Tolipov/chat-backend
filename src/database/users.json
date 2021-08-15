@@ -1,0 +1,34 @@
+[
+    {
+        "user_id": 1,
+        "username": "Olim",
+        "password": 1111,
+        "age": 15,
+        "gender": 1,
+        "contact": "998941025689"
+    },
+    {
+        "username": "Murod",
+        "password": 1111,
+        "age": 25,
+        "gender": 1,
+        "contact": "998974025689",
+        "user_id": 2
+    },
+    {
+        "user_id": 3,
+        "contact": "998997688888",
+        "gender": "1",
+        "age": "12",
+        "username": "Kamol",
+        "password": "1111"
+    },
+    {
+        "user_id": 4,
+        "contact": "998997688888",
+        "gender": "1",
+        "age": "32",
+        "username": "Abdulloh",
+        "password": "1111"
+    }
+]

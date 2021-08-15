@@ -1,0 +1,51 @@
+[
+    {
+        "todo_id": 1,
+        "todo_text": "Assalomu alaykum",
+        "todo_time": "00:32",
+        "user_id": 2,
+        "username": "Murod"
+    },
+    {
+        "todo_id": 2,
+        "todo_text": "Yaxshimisila?",
+        "todo_time": "00:32",
+        "user_id": 2,
+        "username": "Murod"
+    },
+    {
+        "todo_id": 3,
+        "todo_text": "Va alaykum assalom",
+        "todo_time": "00:33",
+        "user_id": 1,
+        "username": "Olim"
+    },
+    {
+        "todo_id": 4,
+        "todo_text": "yaxsh ",
+        "todo_time": "00:33",
+        "user_id": 1,
+        "username": "Olim"
+    },
+    {
+        "todo_id": 5,
+        "todo_text": "Nima gapla ozizda?",
+        "todo_time": "00:33",
+        "user_id": 1,
+        "username": "Olim"
+    },
+    {
+        "todo_id": 6,
+        "todo_text": "Salom gurpa😁",
+        "todo_time": "00:34",
+        "user_id": 3,
+        "username": "Kamol"
+    },
+    {
+        "todo_id": 7,
+        "todo_text": "Tinchmisila?",
+        "todo_time": "00:34",
+        "user_id": 3,
+        "username": "Kamol"
+    }
+]
