@@ -22,13 +22,5 @@
         "age": "12",
         "username": "Kamol",
         "password": "1111"
-    },
-    {
-        "user_id": 4,
-        "contact": "998997688888",
-        "gender": "1",
-        "age": "32",
-        "username": "Abdulloh",
-        "password": "1111"
     }
 ]
